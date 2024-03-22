@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711042146889,
+      "tag": "0000_furry_stellaris",
+      "breakpoints": true
+    }
+  ]
+}
